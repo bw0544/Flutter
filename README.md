@@ -1,17 +1,63 @@
-# firstproj
+# Aionia
 
-A new Flutter project.
+## Workspace
 
-## Getting Started
+- Github:
 
-This project is a starting point for a Flutter application.
+https://github.com/bw0544/Flutter
 
-A few resources to get you started if this is your first Flutter project:
+- Sharapoint:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+https://upm365.sharepoint.com/sites/MobileAppDevelopmentSharepoint$0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description
+
+Aionia (Αἰωνία) means "Eternal Life" in Greek. Dark greens represent nature and sustainability, deep dark tones represent AI infrastructure, and golden tones highlight key insights. This app estimates the environmental impact of AI usage including water consumption, carbon emissions, and electricity usage based on prompts, word count, and request volume. It also lets you see where the different data centers of each AI company are around the world and it lets you compare different each model and their respective usage. The supported chatbots include ChatGPT (GPT-5.2, GPT-5.3, GPT-5.4), Claude (Haiku 4.6, Opus 4.6, Sonnet 4.6) and Gemini (Gemini 2.5 Flash, Gemini 2.5 Pro, Gemini 3.1 Pro)
+## Screenshots
+
+![Alt Text](screenshot/1.png)
+
+![Alt Text](screenshot/2.png)
+
+![Alt Text](screenshot/3.png)
+
+![Alt Text](screenshot/4.png)
+
+![Alt Text](screenshot/5.png)
+
+![Alt Text](screenshot/6.png)
+
+
+## Demo
+
+https://youtu.be/f335t8lHH4o?si=rejCAbYhFx2HuVtu
+
+## Features
+
+- Calculate carbon emisions per prompt
+- Calculate electricity usage per prompt
+- Calculate water waste per prompt
+- See locations of data centers
+- Compare artificial intelligence models to each other
+
+## How To Use
+
+When you launch the app you're automatically redirected to the home page. From there you can choose where you want to navigate to either through the buttons or through the navigation bar. The buttons in order are as following: Home, Maps, Calculator, Statistics, About
+## Participants
+
+List of MAD developers:
+
+- Manuel Marcus Koster (manuel.koster@alumnos.upm.es)
+
+- Amir Abbas Asiabanpout (amirabbas.asi@alumnos.upm.es)
+
+Workload distribution between members: (50% / 50%)
+
+## Authors
+
+- [@bw0544](https://www.github.com/bw0544)
+- [@amirabbasasi](https://www.github.com/amirabbasasi)
+
+## Languages
+
+Flutter 100%
